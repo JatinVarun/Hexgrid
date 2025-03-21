@@ -1,0 +1,28 @@
+.hex-grid {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.hexagon {
+  width: 80px;
+  height: 69px; /* Approximate flat-topped hexagon height (√3 * 40) */
+  position: absolute;
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin: 0;
+  padding: 0;
+  background-color: blue; /* Example fill color */
+  position: relative;
+}
+
+/* SVG overlay for drawing the thin outline */
+.hexagon-outline {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
