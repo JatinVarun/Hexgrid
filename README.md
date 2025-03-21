@@ -16,8 +16,8 @@ Hexagon Grid is a React project that creates an interactive grid of hexagons. Ea
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/hexagon-grid.git
-   cd hexagon-grid-visualizer
+   git clone https://github.com/JatinVarun/Hexgrid.git
+   cd Hexgrid
    
 ## Usage
 Viewing the Grid:
