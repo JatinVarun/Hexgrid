@@ -41,7 +41,7 @@ honeycomb-hexagon/
 └── README.md              
 
 **Images and Working:**
-1) ![Image](https://github.com/user-attachments/assets/055025bd-e838-407e-9f03-415d4775e752)
+ ![Image](https://github.com/user-attachments/assets/055025bd-e838-407e-9f03-415d4775e752)
    
    Working:
 1) Hexagonal Grid Formation – Multiple small hexagons are arranged in a staggered grid to form a large hexagon.
@@ -49,19 +49,19 @@ honeycomb-hexagon/
 3) Color Assignment – Different colors are assigned to each hexagon from a predefined palette for a vibrant look.
 4) Final Structure – The combined hexagons create a visually appealing large hexagonal shape.
 
-2) ![Image](https://github.com/user-attachments/assets/725dee99-eded-41d7-8cee-0f101a198d00)
+ ![Image](https://github.com/user-attachments/assets/725dee99-eded-41d7-8cee-0f101a198d00)
 
    Working:
    When the user hover over any hexagon, its color code appears on it, allowing user to see the exact hex value of that color. In this case, user hovering over a dark blue hexagon, and its hex code (#00509f) is 
    displayed. This feature helps user easily identify and use specific colors from the hexagonal grid.
    
-3) ![Image](https://github.com/user-attachments/assets/4673c53c-a9bf-4f1d-b60a-c7717d8e3a53)
+ ![Image](https://github.com/user-attachments/assets/4673c53c-a9bf-4f1d-b60a-c7717d8e3a53)
 
    Working:
    When user click on a dark blue hexagon, it generates a grid of hexagons displaying various unique shades of that color. Each shade is represented with its corresponding hex code, allowing us to explore subtle 
    variations in tone and saturation. This feature helps in selecting the perfect shade from a gradient of similar colors.
 
-4) ![Image](https://github.com/user-attachments/assets/7d5a5db3-bab8-47eb-bc47-9bc80140885a)
+ ![Image](https://github.com/user-attachments/assets/7d5a5db3-bab8-47eb-bc47-9bc80140885a)
 
    Working:
    When the user double-click on a particular hexagon, the grid refreshes, reverting to the previous hexagon set. This allows seamless toggling between different color palettes, making it easy to switch back and 
