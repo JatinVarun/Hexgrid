@@ -40,6 +40,9 @@ honeycomb-hexagon/
 ├── package.json
 └── README.md              
 
+Images and Working:
+![Image](https://github.com/user-attachments/assets/055025bd-e838-407e-9f03-415d4775e752)
+
    
 ## Usage
 Viewing the Grid:
